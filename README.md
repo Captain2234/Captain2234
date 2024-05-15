@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am not a developer.
 -->
-<!--### Hi there ,I am Bhavishya👋
+<!--### Hi there, I am Bhavishya👋
 -->
 
 
 <h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Bhavishya </h1>
 <h3 align="center">A Developer from India </h3>
 
-## 📈 Stats
+<!--## 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhavishya&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavishya&theme=tokyonight" />
-</p>
+</p>-->
